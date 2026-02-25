@@ -18,7 +18,6 @@
 #define SERVO_INTERVAL_MS 15    
 
 // PARAMETER BUZZER ULTRASONIK
-// Frekuensi tidak terdengar manusia, mengganggu burung
 #define BUZZER_FREQ_HZ        25000   
 #define BUZZER_DURATION_MS    3000    
 #define BUZZER_COOLDOWN_MS    5000    
