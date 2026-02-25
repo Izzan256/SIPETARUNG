@@ -17,7 +17,7 @@
 #define SERVO_STEP        2     
 #define SERVO_INTERVAL_MS 15    
 
-// PARAMETER BUZZER ULTRASONIK
+// PARAMETER BUZZER
 #define BUZZER_FREQ_HZ        25000   
 #define BUZZER_DURATION_MS    3000    
 #define BUZZER_COOLDOWN_MS    5000    
